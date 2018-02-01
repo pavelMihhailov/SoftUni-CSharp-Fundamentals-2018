@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Read-File", "01. Read-File\01. Read-File.csproj", "{867CCA40-6CE9-4571-80B6-61B0DB557F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Write-To-File", "02. Write-To-File\02. Write-To-File.csproj", "{866B5986-940F-430F-A5A1-696E2AFEF385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Writing-Text-To-File", "03. Writing-Text-To-File\03. Writing-Text-To-File.csproj", "{6ED366A9-F56C-4C23-BE30-ACF8A65FF5ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Copying-File", "04. Copying-File\04. Copying-File.csproj", "{81218052-E328-4BE4-ADB5-0EA7D87A8BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Reading-In-Memory-String", "05. Reading-In-Memory-String\05. Reading-In-Memory-String.csproj", "{49F7AD7E-980A-4785-B1FA-E404F96322E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Simple-Web-Server", "06. Simple-Web-Server\06. Simple-Web-Server.csproj", "{4756A5DA-0649-4EDC-844C-00E311B3C692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867CCA40-6CE9-4571-80B6-61B0DB557F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867CCA40-6CE9-4571-80B6-61B0DB557F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867CCA40-6CE9-4571-80B6-61B0DB557F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867CCA40-6CE9-4571-80B6-61B0DB557F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866B5986-940F-430F-A5A1-696E2AFEF385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866B5986-940F-430F-A5A1-696E2AFEF385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866B5986-940F-430F-A5A1-696E2AFEF385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866B5986-940F-430F-A5A1-696E2AFEF385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED366A9-F56C-4C23-BE30-ACF8A65FF5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED366A9-F56C-4C23-BE30-ACF8A65FF5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED366A9-F56C-4C23-BE30-ACF8A65FF5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED366A9-F56C-4C23-BE30-ACF8A65FF5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81218052-E328-4BE4-ADB5-0EA7D87A8BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81218052-E328-4BE4-ADB5-0EA7D87A8BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81218052-E328-4BE4-ADB5-0EA7D87A8BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81218052-E328-4BE4-ADB5-0EA7D87A8BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F7AD7E-980A-4785-B1FA-E404F96322E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F7AD7E-980A-4785-B1FA-E404F96322E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F7AD7E-980A-4785-B1FA-E404F96322E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F7AD7E-980A-4785-B1FA-E404F96322E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4756A5DA-0649-4EDC-844C-00E311B3C692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4756A5DA-0649-4EDC-844C-00E311B3C692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4756A5DA-0649-4EDC-844C-00E311B3C692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4756A5DA-0649-4EDC-844C-00E311B3C692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887271EE-D9FC-47CA-BC20-0C76CAC70E71}
+	EndGlobalSection
+EndGlobal
